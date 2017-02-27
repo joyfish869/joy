@@ -6,8 +6,8 @@ public class server {
     {
         System.out.println( "Hello World, server!" );
         
-        System.out.println( "Hello Joy server!" );
+        System.out.println( "Hello Joy's server!" );
         
-        System.out.println( "Hello Joy server2!" );
+        System.out.println( "Hello Joy's server2!" );
     }
 }
